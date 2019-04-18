@@ -3,7 +3,7 @@
 ## What website did you find (url, name,...) 
     * The big ugly website
     * http://thebiguglywebsite.com
-    ![Big ugly website screenshot](screenshot.png)
+    ![Big ugly website screenshot].(screenshot.png) 
 
 
 
@@ -15,6 +15,6 @@
 ## Why does this website need an update / complete makeover ?
 ## Is this website active on social media ?
 Make a list with the top three things you would change first (and explain why those three specifically)
-1. lay out 
+1. lay out git
 2. style 
 3. animations 
