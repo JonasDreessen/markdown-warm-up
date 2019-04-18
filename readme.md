@@ -3,7 +3,7 @@
 ## What website did you find (url, name,...) 
 * The big ugly website
 * http://thebiguglywebsite.com
-![Big ugly website screenshot].(screenshot.png) 
+![Big ugly website screenshot](screenshot.png) 
 
 
 
