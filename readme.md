@@ -1,8 +1,10 @@
-#website markdown
+# website markdown
 
 ## What website did you find (url, name,...)
-    1. The big ugly website
-    2. http://thebiguglywebsite.com
+    * The big ugly website
+    * http://thebiguglywebsite.com
+    ! ![Big ugly website screenshot](/desktop/thebiguglywebsite.png)
+
 
 
 ## Does it get regular updates ?
