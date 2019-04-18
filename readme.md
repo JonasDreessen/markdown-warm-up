@@ -8,7 +8,7 @@
 
 
 ## Does it get regular updates ?
- * The website does not recieve regular updates, there is information on it dating from 1980.
+ *  The website does not recieve regular updates, there is information on it dating from 1980.
 
 ## How did you find it ?
 ## Why does this website need an update / complete makeover ?
