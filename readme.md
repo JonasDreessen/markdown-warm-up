@@ -1,10 +1,10 @@
 # website markdown
 
-## What website did you find (url, name,...)
+## What website did you find (url, name,...) 
     * The big ugly website
     * http://thebiguglywebsite.com
-    ![Big ugly website screenshot](thebiguglywebsite.png)
-    
+    ![Big ugly website screenshot](screenshot.png)
+
 
 
 
